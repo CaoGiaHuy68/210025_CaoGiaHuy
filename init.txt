@@ -1,2 +1,6 @@
 init develop
+<<<<<<< HEAD
 user2 update init
+=======
+user1 update init
+>>>>>>> fab93232ea4c60885012011babf5f7d8f611a0df
